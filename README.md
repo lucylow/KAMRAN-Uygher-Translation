@@ -1,6 +1,4 @@
-Yes — you mean **one single Markdown code block from the first `# KAMRAN Translate` all the way to the final line**, with nothing outside the box, so GitHub Markdown can be copied and pasted directly.
 
-````markdown
 # KAMRAN Translate
 
 <div align="center">
