@@ -14,7 +14,6 @@
 [![tRPC](https://img.shields.io/badge/tRPC-11-2596BE)](https://trpc.io/)
 [![Drizzle](https://img.shields.io/badge/Drizzle-ORM-C5F74F)](https://orm.drizzle.team/)
 [![Vitest](https://img.shields.io/badge/Vitest-2-6E9F18?logo=vitest&logoColor=white)](https://vitest.dev/)
-[![License](https://img.shields.io/badge/license-TBD-lightgrey)](#license)
 
 **KAMRAN Translate** is a mobile-first translation experience designed around Uyghur ↔ Chinese communication, with a product architecture that can extend into English metadata, language learning, speech, OCR, phrase libraries, dialect-aware workflows, and offline-ready experiences.
 
