@@ -1,0 +1,13 @@
+# External Release Guidance Notes
+
+These notes summarize authoritative sources consulted for KAMRAN’s iOS readiness pass.
+
+| Source                                                                                                                                      | Relevant finding                                                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Apple App Review Guidelines — https://developer.apple.com/app-store/review/guidelines/                                                      | Before submission, Apple highlights testing for crashes/bugs, complete and accurate metadata, reachable support/contact information, and full App Review access.                  |
+| Apple App Store Connect: Manage app privacy — https://developer.apple.com/help/app-store-connect/manage-app-information/manage-app-privacy/ | An iOS app requires a privacy-policy URL, and App Store Connect privacy answers must accurately describe the app and third-party data practices.                                  |
+| Expo: Submit to app stores — https://docs.expo.dev/deploy/submit-to-app-stores/                                                             | EAS Submit uploads an IPA to App Store Connect/TestFlight; production release still requires App Store Connect metadata, screenshots, build selection, and App Review submission. |
+| Expo: Privacy manifests — https://docs.expo.dev/guides/apple-privacy/                                                                       | Expo supports `ios.privacyManifests` in app config for required-reason APIs such as UserDefaults; dependencies and the submitted build still require review.                      |
+| Expo: Configure EAS Build with eas.json — https://docs.expo.dev/build/eas-json/                                                             | EAS build profiles commonly separate development, preview/internal distribution, and production store builds.                                                                     |
+
+These notes are implementation guidance, not legal advice or a guarantee of App Review approval. The final production build, enabled integrations, owner identity, privacy disclosures, and App Store Connect answers must be reviewed by the app owner.

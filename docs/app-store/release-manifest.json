@@ -1,0 +1,20 @@
+{
+  "appName": "KAMRAN Translate",
+  "slug": "kamran",
+  "iosBundleIdentifier": "com.app.kamran",
+  "version": "1.0.0",
+  "iosBuildNumber": "1",
+  "orientation": "portrait",
+  "supportsTablet": false,
+  "requiredPermissions": {
+    "microphone": true,
+    "camera": true,
+    "photoLibrary": false
+  },
+  "easProfiles": {
+    "preview": "internal",
+    "production": "store"
+  },
+  "supportEmail": "REPLACE_WITH_SUPPORT_EMAIL",
+  "privacyPolicyUrl": "REPLACE_WITH_PUBLIC_PRIVACY_POLICY_URL"
+}
