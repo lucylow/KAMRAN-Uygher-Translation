@@ -19,6 +19,9 @@
 
 **KAMRAN Translate** is a mobile-first multilingual communication companion designed around Uyghur ↔ Chinese translation, multimodal input, language learning, phrase retention, speech interaction, camera-based workflows, and an extensible language intelligence architecture.
 
+![](https://github.com/lucylow/KAMRAN-Uygher-Translation/blob/main/assets/images/123123.png?raw=true)
+![](https://github.com/lucylow/KAMRAN-Uygher-Translation/blob/main/assets/images/1231.png?raw=true)
+
 </div>
 
 ---
